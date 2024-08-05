@@ -9,7 +9,9 @@
 
 # 📃Description
 
-I Recently completed a Comprehensive Job Simulation at PwC Switzerland, where I honed my skills as an Aspiring Data Analyst. During this Experience, I Advanced my Proficiency in PowerBI, enhancing my ability to understand Client needs and deliver tailored Data Visualization Solutions. I Successfully created Power BI Dashboards that Conveyed Key Performance Indicators (KPIs) and addressed Client Requirements with well designed outputs. My strong Communication Skills were demonstrated through Clear and Informative email exchanges with Engagement Partners, providing Actionable Insights based on thorough Data Analysis. Additionally, I applied my Analytical Problem-Solving Abilities to examine HR Data, focusing on Gender-Related KPIs to uncover root causes of Gender Imbalance at the Executive Management Level underscoring my Commitment to Data-driven Decision-making.
+I Recently completed a Comprehensive Job Simulation at PwC Switzerland, where I honed my skills as an Aspiring Data Analyst. During this Experience, I Advanced my Proficiency in PowerBI, enhancing my ability to understand Client needs and deliver tailored Data Visualization Solutions. I Successfully created Power BI Dashboards that Conveyed Key Performance Indicators (KPIs) and addressed Client Requirements with well designed outputs. My strong Communication Skills were demonstrated through Clear and Informative email exchanges with Engagement Partners, providing Actionable Insights based on thorough Data Analysis. 
+
+Additionally, I applied my Analytical Problem-Solving Abilities to examine HR Data, focusing on Gender-Related KPIs to uncover root causes of Gender Imbalance at the Executive Management Level underscoring my Commitment to Data-driven Decision-making.
 
 # Table of Content
 
