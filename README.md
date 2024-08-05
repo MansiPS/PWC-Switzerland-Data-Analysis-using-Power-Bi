@@ -40,9 +40,9 @@ Driven by a Commitment to Data-driven Excellence, the Project aimed to Unravel t
 
 The Dataset is a Combination of 3 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
 - Kindly Access and Download the Dataset via the Link provided below
-- Task 1 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%201-Raw%20Data.xlsx
-- Task 2 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%202-Raw%20Data.xlsx
-- Task 3 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%203-Raw%20Data.xlsx
+- Task 1 Dataset Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16491931/Raw.Data.xlsx)
+- Task 2 Dataset Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16491938/Raw.Data.xlsx)
+- Task 3 Dataset Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16491942/Raw.Data.xlsx)
 
 ## 📑 Dataset Description
 
@@ -72,18 +72,18 @@ Comprehensive Analysis has been conducted on the Datasets, illustrated through a
 
 ## Task 1 📌
 
-- Checkout the Analysis here :- 
-- Checkout the Poer Bi Dashboard here :-
+- Checkout the Analysis here :- [Analysis.xlsx](https://github.com/user-attachments/files/16491936/Analysis.xlsx)
+- Checkout the Power Bi Dashboard here :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/391c7cf84014c544efad24de2b1e0beb26e26d2d/Task%201-Dashboard.pbix
 
 ## Task 2 📌
 
-- Checkout the Analysis here :- 
-- Checkout the Poer Bi Dashboard here :-
+- Checkout the Analysis here :- [Analysis.xlsx](https://github.com/user-attachments/files/16491937/Analysis.xlsx)
+- Checkout the Power Bi Dashboard here :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/391c7cf84014c544efad24de2b1e0beb26e26d2d/Task%202-Dashboard.pbix
 
 ## Task 3 📌
 
-- Checkout the Analysis here :- 
-- Checkout the Poer Bi Dashboard here :-
+- Checkout the Analysis here :- [Analysis.xlsx](https://github.com/user-attachments/files/16491941/Analysis.xlsx)
+- Checkout the Power Bi Dashboard here :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/391c7cf84014c544efad24de2b1e0beb26e26d2d/Task%203-Dashboard.pbix
   
 # Author 🙎‍♀️  
 
@@ -101,7 +101,7 @@ Comprehensive Analysis has been conducted on the Datasets, illustrated through a
 
 # ✍ Acknowledgement
 
-Thank you to TATA and Forage for providing me this Invaluable Oppurtunity, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
+Thank you to PWC Switzerland and Forage for providing me this Invaluable Oppurtunity, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
 - Forage :- https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-mmlb/project-understanding
 
 #  🌟About Me 🙎‍♀️
