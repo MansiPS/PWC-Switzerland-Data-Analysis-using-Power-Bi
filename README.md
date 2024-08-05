@@ -40,9 +40,9 @@ Driven by a Commitment to Data-driven Excellence, the Project aimed to Unravel t
 
 The Dataset is a Combination of 3 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
 - Kindly Access and Download the Dataset via the Link provided below
-- Task 1 Dataset Link :- 
-- Task 2 Dataset Link :-
-- Task 3 Dataset Link :-
+- Task 1 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%201-Raw%20Data.xlsx
+- Task 2 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%202-Raw%20Data.xlsx
+- Task 3 Dataset Link :- https://github.com/MansiPS/PWC-Switzerland-Data-Analysis-using-Power-Bi/blob/d210a639ba56b19a4de8d0ff605d5949ced17647/Task%203-Raw%20Data.xlsx
 
 ## 📑 Dataset Description
 
